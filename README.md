@@ -1,2 +1,2 @@
-# homework_5_lede
-Homework 5: Pandas (Lede Program 2023)
+# Exercises using Pandas library for Python
+This repo contains homework #5, focused on the Pandas library for Python. It is an assignment from the Lede 2023 Program at Columbia University.
